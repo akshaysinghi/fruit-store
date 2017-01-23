@@ -1,0 +1,48 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Kiwi",
+        "price": 60,
+        "quantity":1
+    }, {
+        "id": 2,
+        "name": "Kinnow",
+        "price": 26,
+        "quantity":1
+    }, {
+        "id": 3,
+        "name": "Grapes",
+        "price": 64,
+        "quantity":1
+    }, {
+        "id": 4,
+        "name": "Apple",
+        "price": 162,
+        "quantity":1
+    }, {
+        "id": 5,
+        "name": "Golden Apple",
+        "price": 210,
+        "quantity":1
+    }, {
+        "id": 6,
+        "name": "Sweet Lime",
+        "price": 80,
+        "quantity":1
+    }, {
+        "id": 7,
+        "name": "Guava",
+        "price": 77,
+        "quantity":1
+    }, {
+        "id": 8,
+        "name": "Strawberry",
+        "price": 89,
+        "quantity":1
+    }, {
+        "id": 9,
+        "name": "Pineapple",
+        "price": 95,
+        "quantity":1
+    }]
+}

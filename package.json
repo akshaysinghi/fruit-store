@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gulp": "3.8.7",
+    "json-server": "0.8.22",
+    "gulp-webserver": "0.9.1"
+  }
+}
